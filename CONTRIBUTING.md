@@ -9,7 +9,7 @@ We welcome contributions to improve the **Combinio** project! To ensure a smooth
 2. **Clone Your Fork**
 
    ```bash
-   git clone https://github.com/yourusername/combinio.git
+   git clone https://github.com/switch_900/combinio.git
    ```
 
 3. **Create a New Branch**
@@ -43,7 +43,7 @@ We welcome contributions to improve the **Combinio** project! To ensure a smooth
 
 ## Reporting Issues
 
-If you find a bug or have a feature request, please open an issue [here](https://github.com/yourusername/combinio/issues).
+If you find a bug or have a feature request, please open an issue [here](https://github.com/switch_900/combinio/issues).
 
 ## Thank You!
 

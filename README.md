@@ -1,4 +1,8 @@
 # Combinio
+keep it simple: 
+Place combine.js in your project's root directory and run the following command in your terminal: node combine.js
+
+
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
@@ -38,7 +42,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/combinio.git
+   git clone https://github.com/switch_900/combinio.git
    ```
 
 2. **Navigate to the Project Directory**
@@ -191,4 +195,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 - **Author**: Your Name
 - **Email**: your.email@example.com
-- **GitHub**: [yourusername](https://github.com/yourusername)
+- **GitHub**: [switch_900](https://github.com/switch_900)
