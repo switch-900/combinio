@@ -1,6 +1,6 @@
 # Combinio
-keep it simple: 
-Place combine.js in your project's root directory and run the following command in your terminal: node combine.js
+Keep it simple: 
+Place combine.js in your project's root directory and run the following command in your terminal: node combine.js, you may have to save as .cjs and use node combine.cjs. 
 
 
 
